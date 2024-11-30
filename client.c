@@ -284,7 +284,7 @@ void instructions()
 
  printf("\t<The chat goes like, one sends the message then the other will be able to send>\n");
  printf("\t                        <Something like a Wakie-Talkie>\n");
- printf("\t            <if the program gets stuck at some point, then result the program>\n");
+ printf("\t            <if the program gets stuck at some point, then restart the program>\n");
  printf("\t                <To report error, please email at : ashutoshv6393@gmail.com>\n");
  printf("------------------------------------------------------------------------------------------------------\n");
                                                     
