@@ -1,6 +1,6 @@
 # RetroChat - Terminal Based Chat Application
 
-RetroChat is a terminal-based real-time chat application built using C++. It allows multiple clients to communicate through a central server without the need for port forwarding or complex setups.
+RetroChat is a terminal-based real-time chat application built using C. It allows multiple clients to communicate through a central server without the need for port forwarding or complex setups.
 
 > Think of it like old-school LAN chat but over the internet!
 
@@ -16,7 +16,7 @@ RetroChat is a terminal-based real-time chat application built using C++. It all
 ---
 
 ## Tech Stack
-- C++ (Networking & Multithreading)
+- C (Networking)
 - Sockets (TCP)
 - Windows based terminal app
 - Server mediates communication between clients
